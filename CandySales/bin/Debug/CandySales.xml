@@ -1,0 +1,231 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CandySales
+</name>
+</assembly>
+<members>
+<member name="T:CandySales.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:CandySales.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:CandySales.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:CandySales.frmOrder">
+ <summary>
+ Form that contains the withdraw/payment controls and the statistics viewer on a seperate tab
+ </summary>
+</member>
+<member name="T:CandySales.CandySalesData">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:CandySales.CandySalesData.StudentsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CandySales.CandySalesData.TransactionsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CandySales.CandySalesData.ShopsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CandySales.CandySalesData.ItemsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CandySales.CandySalesData.MatchingStudentsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CandySales.CandySalesData.QueryTermsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CandySales.CandySalesData.StudentSalesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CandySales.CandySalesData.ShopOverviewDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CandySales.CandySalesData.TopSellersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CandySales.CandySalesData.Daily_SalesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CandySales.CandySalesData.TotalDailyIncomeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CandySales.CandySalesData.DonationsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CandySales.CandySalesData.JoelsFavoriteTruckStopsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CandySales.CandySalesData.StudentsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CandySales.CandySalesData.TransactionsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CandySales.CandySalesData.ShopsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CandySales.CandySalesData.ItemsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CandySales.CandySalesData.MatchingStudentsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CandySales.CandySalesData.QueryTermsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CandySales.CandySalesData.StudentSalesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CandySales.CandySalesData.ShopOverviewRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CandySales.CandySalesData.TopSellersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CandySales.CandySalesData.Daily_SalesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CandySales.CandySalesData.TotalDailyIncomeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CandySales.CandySalesData.DonationsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CandySales.CandySalesData.JoelsFavoriteTruckStopsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CandySales.CandySalesData.StudentsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CandySales.CandySalesData.TransactionsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CandySales.CandySalesData.ShopsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CandySales.CandySalesData.ItemsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CandySales.CandySalesData.MatchingStudentsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CandySales.CandySalesData.QueryTermsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CandySales.CandySalesData.StudentSalesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CandySales.CandySalesData.ShopOverviewRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CandySales.CandySalesData.TopSellersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CandySales.CandySalesData.Daily_SalesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CandySales.CandySalesData.TotalDailyIncomeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CandySales.CandySalesData.DonationsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CandySales.CandySalesData.JoelsFavoriteTruckStopsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+</members>
+</doc>
